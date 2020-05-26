@@ -10,3 +10,4 @@ for i in range(n):
 a=numpy.array(a)
 ans=numpy.sum(a,axis=0)
 print (numpy.prod(ans))
+

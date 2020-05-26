@@ -10,6 +10,3 @@ for i in range(n):
 a=numpy.array(a)
 ans=numpy.min(a,axis=1)
 print (numpy.max(ans))
-
-
-

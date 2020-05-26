@@ -12,6 +12,3 @@ a=numpy.array(a)
 print(a.transpose())
 print(a.flatten())
 
-
-
-
